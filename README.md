@@ -6,6 +6,6 @@ This was the first videogame that I did. This is a classic Space Invaders videog
 You can control the spaceship pushing keyboard arrows right and left, and you attack pushing spacebar.
 
 ## Screenshot
-![Capture1](https://raw.githubusercontent.com/sermmor/BlogXtender/master/Capture.png)
+![Capture1](https://raw.githubusercontent.com/sermmor/Space_Invaders/master/Capture.png)
 
 **IMPORTANT NOTE**: I finished this project in May 2013, and I won't do an update of this anymore.
