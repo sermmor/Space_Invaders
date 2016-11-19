@@ -5,6 +5,9 @@ This was the first videogame that I did. This is a classic Space Invaders videog
 ## Controls
 You can control the spaceship pushing keyboard arrows right and left, and you attack pushing spacebar.
 
+## Executable
+You can download a executable file of the game in ![itch.io](https://sermmor.itch.io/simple-space-invaders)
+
 ## Screenshot
 ![Capture1](https://raw.githubusercontent.com/sermmor/Space_Invaders/master/Capture.png)
 
